@@ -21,7 +21,7 @@ public class Week2Nomor1 {
             case 8: namaBulan = "Agustus"; jumlahHari = 31; break;
             case 9: namaBulan = "September"; jumlahHari = 30; break;
             case 10: namaBulan = "Oktober"; jumlahHari = 31; break;
-            case 11: namaBulan = "November"; jumlahHari = 30; break;git r
+            case 11: namaBulan = "November"; jumlahHari = 30; break;
             case 12: namaBulan = "Desember"; jumlahHari = 31; break;
             default: namaBulan = "Tidak valid"; jumlahHari = 0; break;
         }
